@@ -1,2 +1,2 @@
 # Google_Search_Suggests
-Google Search/Suggests
+Obtenha as sugestões do Google para termos pesquisados.
